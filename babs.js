@@ -1,4 +1,4 @@
 (function(){
 	//todo
-	//do something with dictionaries
+	//do something with maps
 })();
